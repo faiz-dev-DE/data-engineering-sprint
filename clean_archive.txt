@@ -1,0 +1,2 @@
+TXN_LOG -> ID: TXN101 | Cleaned Amount: INR 4500
+TXN_LOG -> ID: TXN103 | Cleaned Amount: INR 8900
