@@ -1,17 +1,5 @@
 === Pipeline Cron Trigger Started ===
-Tue Oct 27 23:50:29 IST 2026
-Traceback (most recent call last):
-  File "C:\Users\faiza\sprint_workspace\et1_processor.py", line 40, in <module>
-    run_etl()
-  File "C:\Users\faiza\sprint_workspace\et1_processor.py", line 13, in run_etl
-    print("\U0001f680 File Detected! Running ETL Pipeline...")
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
-    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>
-=== Pipeline Execution Finished ===
-=== Pipeline Cron Trigger Started ===
-Wed Oct 28 00:01:02 IST 2026
+Thu Oct 29 23:23:22 IST 2026
  File Detected! Running ETL Pipeline...
  Success: Processing complete. Raw landing file cleared.
 === Pipeline Execution Finished ===
